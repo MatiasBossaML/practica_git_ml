@@ -1,2 +1,6 @@
 Hola desde archivo_6
 Modificado por Anfu
+------------------------------------------------------------------------
+- Vamos a modificar el mismo archivo porque nos encanta que se rompan  -
+- todas las cosas, vivir en un caos absoluto.                          -
+------------------------------------------------------------------------
